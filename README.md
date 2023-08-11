@@ -1,1 +1,3 @@
 # Series-de-tiempo-Afluencia-Metro-
+
+Este estudio analiza el impacto de la pandemia en la serie temporal de pasajeros diarios del METRO, dividiendo la línea de tiempo en dos períodos (antes y después de marzo de 2020). Ajustamos modelos específicos para cada período, identificando factores clave que influyeron en las tendencias de pasajeros. Mediante visualización de datos, se revelan patrones y se concluye cómo la pandemia afectó el comportamiento de las cifras de pasajeros, proporcionando información valiosa para la gestión del transporte público en situaciones de crisis y una mejor comprensión de las dinámicas de movilidad.
